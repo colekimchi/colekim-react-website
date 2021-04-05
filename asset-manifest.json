@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/colekim-react-website/static/css/main.922a1863.chunk.css",
-    "main.js": "/colekim-react-website/static/js/main.8fd4e51d.chunk.js",
-    "main.js.map": "/colekim-react-website/static/js/main.8fd4e51d.chunk.js.map",
+    "main.js": "/colekim-react-website/static/js/main.0e19e308.chunk.js",
+    "main.js.map": "/colekim-react-website/static/js/main.0e19e308.chunk.js.map",
     "runtime-main.js": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js",
     "runtime-main.js.map": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js.map",
     "static/js/2.62757494.chunk.js": "/colekim-react-website/static/js/2.62757494.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.7c5bd9a8.js",
     "static/js/2.62757494.chunk.js",
     "static/css/main.922a1863.chunk.css",
-    "static/js/main.8fd4e51d.chunk.js"
+    "static/js/main.0e19e308.chunk.js"
   ]
 }
