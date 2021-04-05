@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/colekim-react-website/static/css/main.922a1863.chunk.css",
+    "main.js": "/colekim-react-website/static/js/main.8fd4e51d.chunk.js",
+    "main.js.map": "/colekim-react-website/static/js/main.8fd4e51d.chunk.js.map",
+    "runtime-main.js": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js",
+    "runtime-main.js.map": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js.map",
+    "static/js/2.62757494.chunk.js": "/colekim-react-website/static/js/2.62757494.chunk.js",
+    "static/js/2.62757494.chunk.js.map": "/colekim-react-website/static/js/2.62757494.chunk.js.map",
+    "index.html": "/colekim-react-website/index.html",
+    "static/css/main.922a1863.chunk.css.map": "/colekim-react-website/static/css/main.922a1863.chunk.css.map",
+    "static/js/2.62757494.chunk.js.LICENSE.txt": "/colekim-react-website/static/js/2.62757494.chunk.js.LICENSE.txt",
+    "static/media/Flixter_v2_GIF.48c318c4.gif": "/colekim-react-website/static/media/Flixter_v2_GIF.48c318c4.gif",
+    "static/media/SimpleTweet_v1.28499a2f.gif": "/colekim-react-website/static/media/SimpleTweet_v1.28499a2f.gif",
+    "static/media/SimpleTweet_v2.f203ff7f.gif": "/colekim-react-website/static/media/SimpleTweet_v2.f203ff7f.gif",
+    "static/media/codepathandroidbanner.89ebc458.png": "/colekim-react-website/static/media/codepathandroidbanner.89ebc458.png",
+    "static/media/dl-sheet-music-stock.jpg": "/colekim-react-website/static/media/dl-sheet-music-stock.feefec50.jpg",
+    "static/media/icon1.svg": "/colekim-react-website/static/media/icon1.753f2580.svg",
+    "static/media/icon2.0b98167f.svg": "/colekim-react-website/static/media/icon2.0b98167f.svg",
+    "static/media/icon3.d7fcd9e7.svg": "/colekim-react-website/static/media/icon3.d7fcd9e7.svg",
+    "static/media/indoor-drumline-stock.jpg": "/colekim-react-website/static/media/indoor-drumline-stock.7fdaab1e.jpg",
+    "static/media/meinthesnow.jpg": "/colekim-react-website/static/media/meinthesnow.90374a95.jpg",
+    "static/media/video.eafbfbd7.mp4": "/colekim-react-website/static/media/video.eafbfbd7.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5bd9a8.js",
+    "static/js/2.62757494.chunk.js",
+    "static/css/main.922a1863.chunk.css",
+    "static/js/main.8fd4e51d.chunk.js"
+  ]
+}
