@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/colekim-react-website/static/css/main.a60b3762.chunk.css",
-    "main.js": "/colekim-react-website/static/js/main.fbdc0637.chunk.js",
-    "main.js.map": "/colekim-react-website/static/js/main.fbdc0637.chunk.js.map",
+    "main.js": "/colekim-react-website/static/js/main.0f37d49f.chunk.js",
+    "main.js.map": "/colekim-react-website/static/js/main.0f37d49f.chunk.js.map",
     "runtime-main.js": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js",
     "runtime-main.js.map": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js.map",
     "static/js/2.69a42d48.chunk.js": "/colekim-react-website/static/js/2.69a42d48.chunk.js",
@@ -21,12 +21,13 @@
     "static/media/icon3.d7fcd9e7.svg": "/colekim-react-website/static/media/icon3.d7fcd9e7.svg",
     "static/media/indoor-drumline-stock.jpg": "/colekim-react-website/static/media/indoor-drumline-stock.7fdaab1e.jpg",
     "static/media/meinthesnow.jpg": "/colekim-react-website/static/media/meinthesnow.90374a95.jpg",
+    "static/media/myportraitsquare.64878612.JPG": "/colekim-react-website/static/media/myportraitsquare.64878612.JPG",
     "static/media/video.eafbfbd7.mp4": "/colekim-react-website/static/media/video.eafbfbd7.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.7c5bd9a8.js",
     "static/js/2.69a42d48.chunk.js",
     "static/css/main.a60b3762.chunk.css",
-    "static/js/main.fbdc0637.chunk.js"
+    "static/js/main.0f37d49f.chunk.js"
   ]
 }
