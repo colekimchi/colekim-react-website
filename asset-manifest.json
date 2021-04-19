@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/colekim-react-website/static/css/main.a60b3762.chunk.css",
-    "main.js": "/colekim-react-website/static/js/main.0f37d49f.chunk.js",
-    "main.js.map": "/colekim-react-website/static/js/main.0f37d49f.chunk.js.map",
+    "main.js": "/colekim-react-website/static/js/main.1d2262d1.chunk.js",
+    "main.js.map": "/colekim-react-website/static/js/main.1d2262d1.chunk.js.map",
     "runtime-main.js": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js",
     "runtime-main.js.map": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js.map",
-    "static/js/2.69a42d48.chunk.js": "/colekim-react-website/static/js/2.69a42d48.chunk.js",
-    "static/js/2.69a42d48.chunk.js.map": "/colekim-react-website/static/js/2.69a42d48.chunk.js.map",
+    "static/js/2.3084ca90.chunk.js": "/colekim-react-website/static/js/2.3084ca90.chunk.js",
+    "static/js/2.3084ca90.chunk.js.map": "/colekim-react-website/static/js/2.3084ca90.chunk.js.map",
     "index.html": "/colekim-react-website/index.html",
     "static/css/main.a60b3762.chunk.css.map": "/colekim-react-website/static/css/main.a60b3762.chunk.css.map",
-    "static/js/2.69a42d48.chunk.js.LICENSE.txt": "/colekim-react-website/static/js/2.69a42d48.chunk.js.LICENSE.txt",
+    "static/js/2.3084ca90.chunk.js.LICENSE.txt": "/colekim-react-website/static/js/2.3084ca90.chunk.js.LICENSE.txt",
     "static/media/Flixter_v2_GIF.gif": "/colekim-react-website/static/media/Flixter_v2_GIF.48c318c4.gif",
     "static/media/ParseInstagram_v1.5.gif": "/colekim-react-website/static/media/ParseInstagram_v1.5.90059098.gif",
     "static/media/SimpleTweet_v1.gif": "/colekim-react-website/static/media/SimpleTweet_v1.28499a2f.gif",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c5bd9a8.js",
-    "static/js/2.69a42d48.chunk.js",
+    "static/js/2.3084ca90.chunk.js",
     "static/css/main.a60b3762.chunk.css",
-    "static/js/main.0f37d49f.chunk.js"
+    "static/js/main.1d2262d1.chunk.js"
   ]
 }
