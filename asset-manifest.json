@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/colekim-react-website/static/css/main.a60b3762.chunk.css",
-    "main.js": "/colekim-react-website/static/js/main.1d2262d1.chunk.js",
-    "main.js.map": "/colekim-react-website/static/js/main.1d2262d1.chunk.js.map",
+    "main.css": "/colekim-react-website/static/css/main.58f1258a.chunk.css",
+    "main.js": "/colekim-react-website/static/js/main.0282326d.chunk.js",
+    "main.js.map": "/colekim-react-website/static/js/main.0282326d.chunk.js.map",
     "runtime-main.js": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js",
     "runtime-main.js.map": "/colekim-react-website/static/js/runtime-main.7c5bd9a8.js.map",
-    "static/js/2.3084ca90.chunk.js": "/colekim-react-website/static/js/2.3084ca90.chunk.js",
-    "static/js/2.3084ca90.chunk.js.map": "/colekim-react-website/static/js/2.3084ca90.chunk.js.map",
+    "static/js/2.eb095c59.chunk.js": "/colekim-react-website/static/js/2.eb095c59.chunk.js",
+    "static/js/2.eb095c59.chunk.js.map": "/colekim-react-website/static/js/2.eb095c59.chunk.js.map",
     "index.html": "/colekim-react-website/index.html",
-    "static/css/main.a60b3762.chunk.css.map": "/colekim-react-website/static/css/main.a60b3762.chunk.css.map",
-    "static/js/2.3084ca90.chunk.js.LICENSE.txt": "/colekim-react-website/static/js/2.3084ca90.chunk.js.LICENSE.txt",
+    "static/css/main.58f1258a.chunk.css.map": "/colekim-react-website/static/css/main.58f1258a.chunk.css.map",
+    "static/js/2.eb095c59.chunk.js.LICENSE.txt": "/colekim-react-website/static/js/2.eb095c59.chunk.js.LICENSE.txt",
     "static/media/Flixter_v2_GIF.gif": "/colekim-react-website/static/media/Flixter_v2_GIF.48c318c4.gif",
     "static/media/ParseInstagram_v1.5.gif": "/colekim-react-website/static/media/ParseInstagram_v1.5.90059098.gif",
     "static/media/SimpleTweet_v1.gif": "/colekim-react-website/static/media/SimpleTweet_v1.28499a2f.gif",
     "static/media/SimpleTweet_v2.gif": "/colekim-react-website/static/media/SimpleTweet_v2.f203ff7f.gif",
+    "static/media/VolumenLogo.7137113a.png": "/colekim-react-website/static/media/VolumenLogo.7137113a.png",
     "static/media/codepathandroidbanner.89ebc458.png": "/colekim-react-website/static/media/codepathandroidbanner.89ebc458.png",
     "static/media/dl-sheet-music-stock.jpg": "/colekim-react-website/static/media/dl-sheet-music-stock.feefec50.jpg",
     "static/media/icon1.svg": "/colekim-react-website/static/media/icon1.753f2580.svg",
@@ -22,12 +23,13 @@
     "static/media/indoor-drumline-stock.jpg": "/colekim-react-website/static/media/indoor-drumline-stock.7fdaab1e.jpg",
     "static/media/meinthesnow.jpg": "/colekim-react-website/static/media/meinthesnow.90374a95.jpg",
     "static/media/myportraitsquare.64878612.JPG": "/colekim-react-website/static/media/myportraitsquare.64878612.JPG",
+    "static/media/sbdatabase_walkthrough_faster.gif": "/colekim-react-website/static/media/sbdatabase_walkthrough_faster.07e2c801.gif",
     "static/media/video.eafbfbd7.mp4": "/colekim-react-website/static/media/video.eafbfbd7.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.7c5bd9a8.js",
-    "static/js/2.3084ca90.chunk.js",
-    "static/css/main.a60b3762.chunk.css",
-    "static/js/main.1d2262d1.chunk.js"
+    "static/js/2.eb095c59.chunk.js",
+    "static/css/main.58f1258a.chunk.css",
+    "static/js/main.0282326d.chunk.js"
   ]
 }
