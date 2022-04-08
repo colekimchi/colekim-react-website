@@ -39,7 +39,7 @@ export const Navbar = ({toggle}) => {
         <IconContext.Provider value={{color:'#fff'}}>
             <Nav scrollNav ={scrollNav}>
                 <NavbarContainer>
-                    <NavLogo to='/' onClick={toggleHome}>Home</NavLogo>
+                    <NavLogo to='/colekim-react-website' onClick={toggleHome}>Home</NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
                     </MobileIcon>

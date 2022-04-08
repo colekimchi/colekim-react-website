@@ -27,15 +27,23 @@
       color: #45a5ff;
 }
 
+#gif a{
+  margin-bottom: 0px;
+}
 
-a:link, a:visited {
+#musescoreButton a:link, a:visited {
     color: #fff;
     text-decoration: none;
     margin-bottom: 0.5rem;
     font-size: 14px;
 }
   
-a:hover {
+#musescoreButton a:hover {
   color: #B0DAF1;
   transition: 0.3s ease-out;
+}
+
+.hidden{
+  background: rgba(0, 0, 0, 0);
+  border:none;
 }

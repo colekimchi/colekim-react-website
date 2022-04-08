@@ -23,10 +23,11 @@ export const homeObjTwo = {
   topLine: 'academics',
   headline: 'Course History',
   description: <ul>
-    <li>Spring 2021: Data Structures and Algorithms, Computer Architecture and Assembly</li>
-    <li>Fall 2020: OOP in C++ (LATTC)</li>
+    <li>Spring 2021: Data Structures and Algorithms (ELAC)</li>
+    <li>Spring 2021: Computer Architecture and Assembly (LAPC)</li>
+    <li>Fall 2020: Object Oriented Programming in C++ (LATTC)</li>
     <li>Winter 2020: Introductory C++ (LATTC)</li>
-    <li>High School 2018-19: AP Comp Sci</li>
+    <li>High School 2018-19: AP Comp Sci (MKHS)</li>
     </ul>,
   buttonLabel: 'button...',
   imgStart: true,

@@ -56,14 +56,14 @@ const Footer = () => {
 
           <SocialMedia>
             <SocialMediaWrap>
-              <SocialLogo to='/' onClick={toggleHome}>
-                Cole Kim
+              <SocialLogo to='/colekim-react-website' onClick={toggleHome}>
+                Back to Top
               </SocialLogo>
               <WebsiteRights>
                  © {new Date().getFullYear()} All rights reserved.
               </WebsiteRights>
               <SocialIcons>
-                <SocialIconLink href="/" target="_blank"
+                <SocialIconLink href="/colekim-react-website" target="_blank"
                 aria-label="Instagram">
                   <FaInstagram/>
                 </SocialIconLink>

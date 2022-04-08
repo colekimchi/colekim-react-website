@@ -1,16 +1,20 @@
 import React, {useState} from 'react'
-import Video from '../../videos/video.mp4'
+import P5Wrapper from 'react-p5-wrapper';
+import sketch from './sketch';
+
 import Typical from 'react-typical';
 import {HeroContainer,
     HeroBg, 
-    VideoBg,
     HeroContent, 
     HeroH1, 
     HeroP, 
-    HeroBtnWrapper, 
+    HeroBtnWrapper,
+    PFPWrapper, 
     ArrowForward, 
     ArrowRight } from './HeroElements';
 import {Button} from '../ButtonElements';
+import pfp from '../../images/myportraitsquare.JPG';
+
 // import { FaArrowRight } from 'react-icons/fa';
 
 
@@ -23,8 +27,10 @@ const [hover, setHover] = useState(false);
     return (
         <HeroContainer id="home">
             <HeroBg>
+                <P5Wrapper sketch={sketch}/>
             </HeroBg>
             <HeroContent>
+                <PFPWrapper src={pfp}/>
                 <HeroH1>
                 <Typical
                         loop={1}

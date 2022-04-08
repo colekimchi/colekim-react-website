@@ -36,14 +36,15 @@ const VBGSection = () => {
                         <Heading lightText='true'>Drumline & Music Production</Heading>
                         <Subtitle >Battery composition and arrangement
                           <br/>Electronic Music Production
-                          <br/>Future DCI Snare
+                          <br/>High School Percussion Instructor
+                          <br/>WGI Snare drummer
                         </Subtitle>
                         <BtnWrap>
                            <a id="musescoreButton"
                            href="https://musescore.com/user/2667556"
                            target="_blank"
                            >MuseScore</a>
-                      </BtnWrap>
+                        </BtnWrap>
                     </TextWrapper>
                     
                     </Column1>

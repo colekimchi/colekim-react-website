@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/' component={Home} exact />
+        <Route path='/colekim-react-website' component={Home} exact />
         <Route path='/signin' component={SignInPage} exact />
       </Switch>
     </Router>

@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import {MdKeyboardArrowRight, MdArrowForward} from 'react-icons/md';
-import {Link} from 'react-scroll'
 
 export const SectionContainer = styled.div`
     background: #0c0c0c;
@@ -124,15 +123,18 @@ export const ImgWrap = styled.div`
   height: auto;
   overflow:hidden;
   border-radius: 25px;
+  @media screen and (max-width: 768px){
+     width: 50%;
+  }
 `
 
 export const Img = styled.img`
   width: 100%;
   height: 50%;
   padding-right: 0;
-  @media screen and (max-width: 768px){
-    width: 75%;
-  }
+  // @media screen and (max-width: 768px){
+  //   width: 75%;
+  // }
 `
 
 

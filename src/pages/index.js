@@ -1,10 +1,9 @@
 import React, {useState} from 'react'
 import {Navbar} from '../components/Navbar'
 import { Sidebar } from '../components/Sidebar'
-import App from '../App';
 import { HeroSection } from '../components/HeroSection';
 import { InfoSection } from '../components/InfoSection';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour} from '../components/InfoSection/Data';
+import { homeObjOne, homeObjTwo} from '../components/InfoSection/Data';
 import Showcase from '../components/Showcase';
 import Footer from '../components/Footer';
 import VBGSection from '../components/VBGSection';
